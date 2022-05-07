@@ -37,3 +37,8 @@ body {
 #post {
     padding: 1em;
 }
+
+.footer {
+    margin-left: 10px;
+    text-align: center;
+}
